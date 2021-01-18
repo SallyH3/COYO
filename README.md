@@ -43,6 +43,6 @@ npm test
 
 Matthew Kaplan
 
-[Sally Haefling](https://github.com/SallyHaefling)
+[Sally H](https://github.com/SallyH3)
 
 [Kelly Zick](https://github.com/misskelly)
